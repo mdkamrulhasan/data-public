@@ -1,0 +1,198 @@
+geo,name,four_regions
+aus,Australia,asia
+brn,Brunei,asia
+khm,Cambodia,asia
+chn,China,asia
+fji,Fiji,asia
+hkg,"Hong Kong, China",asia
+idn,Indonesia,asia
+jpn,Japan,asia
+kir,Kiribati,asia
+prk,North Korea,asia
+kor,South Korea,asia
+lao,Lao,asia
+mys,Malaysia,asia
+mhl,Marshall Islands,asia
+fsm,"Micronesia, Fed. Sts.",asia
+mng,Mongolia,asia
+mmr,Myanmar,asia
+nru,Nauru,asia
+nzl,New Zealand,asia
+plw,Palau,asia
+png,Papua New Guinea,asia
+phl,Philippines,asia
+wsm,Samoa,asia
+sgp,Singapore,asia
+slb,Solomon Islands,asia
+twn,Taiwan,asia
+tha,Thailand,asia
+tls,Timor-Leste,asia
+ton,Tonga,asia
+tuv,Tuvalu,asia
+vut,Vanuatu,asia
+vnm,Vietnam,asia
+alb,Albania,europe
+and,Andorra,europe
+arm,Armenia,europe
+aut,Austria,europe
+aze,Azerbaijan,europe
+blr,Belarus,europe
+bel,Belgium,europe
+bih,Bosnia and Herzegovina,europe
+bgr,Bulgaria,europe
+hrv,Croatia,europe
+cyp,Cyprus,europe
+cze,Czech Republic,europe
+dnk,Denmark,europe
+est,Estonia,europe
+fin,Finland,europe
+fra,France,europe
+geo,Georgia,europe
+deu,Germany,europe
+grc,Greece,europe
+hun,Hungary,europe
+isl,Iceland,europe
+irl,Ireland,europe
+ita,Italy,europe
+kaz,Kazakhstan,asia
+kgz,Kyrgyz Republic,asia
+lva,Latvia,europe
+lie,Liechtenstein,europe
+ltu,Lithuania,europe
+lux,Luxembourg,europe
+mkd,"Macedonia, FYR",europe
+mda,Moldova,europe
+mco,Monaco,europe
+mne,Montenegro,europe
+nld,Netherlands,europe
+nor,Norway,europe
+pol,Poland,europe
+prt,Portugal,europe
+rou,Romania,europe
+rus,Russia,europe
+smr,San Marino,europe
+srb,Serbia,europe
+svk,Slovak Republic,europe
+svn,Slovenia,europe
+esp,Spain,europe
+swe,Sweden,europe
+che,Switzerland,europe
+tjk,Tajikistan,asia
+tur,Turkey,europe
+tkm,Turkmenistan,asia
+ukr,Ukraine,europe
+gbr,United Kingdom,europe
+uzb,Uzbekistan,asia
+atg,Antigua and Barbuda,americas
+arg,Argentina,americas
+bhs,Bahamas,americas
+brb,Barbados,americas
+blz,Belize,americas
+bol,Bolivia,americas
+bra,Brazil,americas
+chl,Chile,americas
+col,Colombia,americas
+cri,Costa Rica,americas
+cub,Cuba,americas
+dma,Dominica,americas
+dom,Dominican Republic,americas
+ecu,Ecuador,americas
+slv,El Salvador,americas
+grd,Grenada,americas
+gtm,Guatemala,americas
+guy,Guyana,americas
+hti,Haiti,americas
+hnd,Honduras,americas
+jam,Jamaica,americas
+mex,Mexico,americas
+nic,Nicaragua,americas
+pan,Panama,americas
+pry,Paraguay,americas
+per,Peru,americas
+kna,St. Kitts and Nevis,americas
+lca,St. Lucia,americas
+vct,St. Vincent and the Grenadines,americas
+sur,Suriname,americas
+tto,Trinidad and Tobago,americas
+ury,Uruguay,americas
+ven,Venezuela,americas
+dza,Algeria,africa
+bhr,Bahrain,asia
+dji,Djibouti,africa
+egy,Egypt,africa
+irn,Iran,asia
+irq,Iraq,asia
+isr,Israel,asia
+jor,Jordan,asia
+kwt,Kuwait,asia
+lbn,Lebanon,asia
+lby,Libya,africa
+mlt,Malta,europe
+mar,Morocco,africa
+omn,Oman,asia
+qat,Qatar,asia
+sau,Saudi Arabia,asia
+syr,Syria,asia
+tun,Tunisia,africa
+are,United Arab Emirates,asia
+pse,Palestine,asia
+yem,Yemen,asia
+can,Canada,americas
+usa,United States,americas
+afg,Afghanistan,asia
+bgd,Bangladesh,asia
+btn,Bhutan,asia
+ind,India,asia
+mdv,Maldives,asia
+npl,Nepal,asia
+pak,Pakistan,asia
+lka,Sri Lanka,asia
+ago,Angola,africa
+ben,Benin,africa
+bwa,Botswana,africa
+bfa,Burkina Faso,africa
+bdi,Burundi,africa
+cmr,Cameroon,africa
+cpv,Cape Verde,africa
+caf,Central African Republic,africa
+tcd,Chad,africa
+com,Comoros,africa
+cod,"Congo, Dem. Rep.",africa
+cog,"Congo, Rep.",africa
+civ,Cote d'Ivoire,africa
+gnq,Equatorial Guinea,africa
+eri,Eritrea,africa
+eth,Ethiopia,africa
+gab,Gabon,africa
+gmb,Gambia,africa
+gha,Ghana,africa
+gin,Guinea,africa
+gnb,Guinea-Bissau,africa
+ken,Kenya,africa
+lso,Lesotho,africa
+lbr,Liberia,africa
+mdg,Madagascar,africa
+mwi,Malawi,africa
+mli,Mali,africa
+mrt,Mauritania,africa
+mus,Mauritius,africa
+moz,Mozambique,africa
+nam,Namibia,africa
+ner,Niger,africa
+nga,Nigeria,africa
+rwa,Rwanda,africa
+stp,Sao Tome and Principe,africa
+sen,Senegal,africa
+syc,Seychelles,africa
+sle,Sierra Leone,africa
+som,Somalia,africa
+zaf,South Africa,africa
+sdn,Sudan,africa
+swz,Swaziland,africa
+tza,Tanzania,africa
+tgo,Togo,africa
+uga,Uganda,africa
+zmb,Zambia,africa
+zwe,Zimbabwe,africa
+ssd,South Sudan,africa
+hos,Holy See,europe
